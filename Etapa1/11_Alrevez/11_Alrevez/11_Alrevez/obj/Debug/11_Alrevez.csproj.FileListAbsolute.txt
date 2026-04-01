@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\4_Pancrazi\Etapa0\11_Alrevez\11_Alrevez\11_Alrevez\bin\Debug\11_Alrevez.exe.config
+C:\Users\Lab AyED\Documents\4_Pancrazi\Etapa0\11_Alrevez\11_Alrevez\11_Alrevez\bin\Debug\11_Alrevez.exe
+C:\Users\Lab AyED\Documents\4_Pancrazi\Etapa0\11_Alrevez\11_Alrevez\11_Alrevez\bin\Debug\11_Alrevez.pdb
+C:\Users\Lab AyED\Documents\4_Pancrazi\Etapa0\11_Alrevez\11_Alrevez\11_Alrevez\obj\Debug\11_Alrevez.exe
+C:\Users\Lab AyED\Documents\4_Pancrazi\Etapa0\11_Alrevez\11_Alrevez\11_Alrevez\obj\Debug\11_Alrevez.pdb
+C:\Users\Lab AyED\Documents\4_Pancrazi\Etapa0\11_Alrevez\11_Alrevez\11_Alrevez\obj\Debug\11_Alrevez.csprojResolveAssemblyReference.cache

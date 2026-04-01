@@ -1,0 +1,5 @@
+C:\Users\Lab AyED\Documents\4_Pancrazi\Etapa0\8_MiEsfera\8_MiEsfera\8_MiEsfera\bin\Debug\8_MiEsfera.exe.config
+C:\Users\Lab AyED\Documents\4_Pancrazi\Etapa0\8_MiEsfera\8_MiEsfera\8_MiEsfera\bin\Debug\8_MiEsfera.exe
+C:\Users\Lab AyED\Documents\4_Pancrazi\Etapa0\8_MiEsfera\8_MiEsfera\8_MiEsfera\bin\Debug\8_MiEsfera.pdb
+C:\Users\Lab AyED\Documents\4_Pancrazi\Etapa0\8_MiEsfera\8_MiEsfera\8_MiEsfera\obj\Debug\8_MiEsfera.exe
+C:\Users\Lab AyED\Documents\4_Pancrazi\Etapa0\8_MiEsfera\8_MiEsfera\8_MiEsfera\obj\Debug\8_MiEsfera.pdb
