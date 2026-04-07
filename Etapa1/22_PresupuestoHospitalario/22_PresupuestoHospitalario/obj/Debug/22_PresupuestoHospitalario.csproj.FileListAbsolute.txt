@@ -4,3 +4,6 @@ C:\Users\Lab AyED\Documents\4_Pancrazi\Etapa0\22_PresupuestoHospitalario\22_Pres
 C:\Users\Lab AyED\Documents\4_Pancrazi\Etapa0\22_PresupuestoHospitalario\22_PresupuestoHospitalario\obj\Debug\22_PresupuestoHospitalario.exe
 C:\Users\Lab AyED\Documents\4_Pancrazi\Etapa0\22_PresupuestoHospitalario\22_PresupuestoHospitalario\obj\Debug\22_PresupuestoHospitalario.pdb
 C:\Users\Lab AyED\Documents\4_Pancrazi\Etapa0\22_PresupuestoHospitalario\22_PresupuestoHospitalario\obj\Debug\22_PresupuestoHospitalario.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\4_Pancrazi\AyED-2026-4-2-\Etapa1\22_PresupuestoHospitalario\22_PresupuestoHospitalario\bin\Debug\22_PresupuestoHospitalario.exe.config
+C:\Users\Lab AyED\Documents\4_Pancrazi\AyED-2026-4-2-\Etapa1\22_PresupuestoHospitalario\22_PresupuestoHospitalario\obj\Debug\22_PresupuestoHospitalario.exe
+C:\Users\Lab AyED\Documents\4_Pancrazi\AyED-2026-4-2-\Etapa1\22_PresupuestoHospitalario\22_PresupuestoHospitalario\obj\Debug\22_PresupuestoHospitalario.pdb

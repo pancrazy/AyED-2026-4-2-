@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_ParOlmpar", "2_ParOlmpar\2_ParOlmpar.csproj", "{F580B28B-7B26-437D-AAB5-ACC848F4DC45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F580B28B-7B26-437D-AAB5-ACC848F4DC45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F580B28B-7B26-437D-AAB5-ACC848F4DC45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F580B28B-7B26-437D-AAB5-ACC848F4DC45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F580B28B-7B26-437D-AAB5-ACC848F4DC45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

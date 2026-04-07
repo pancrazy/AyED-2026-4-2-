@@ -3,3 +3,6 @@ C:\Users\Lab AyED\Documents\4_Pancrazi\Etapa0\19_ConversorMetrosCentimetros\19_C
 C:\Users\Lab AyED\Documents\4_Pancrazi\Etapa0\19_ConversorMetrosCentimetros\19_ConversorMetrosCentimetros\19_ConversorMetrosCentimetros\bin\Debug\19_ConversorMetrosCentimetros.pdb
 C:\Users\Lab AyED\Documents\4_Pancrazi\Etapa0\19_ConversorMetrosCentimetros\19_ConversorMetrosCentimetros\19_ConversorMetrosCentimetros\obj\Debug\19_ConversorMetrosCentimetros.exe
 C:\Users\Lab AyED\Documents\4_Pancrazi\Etapa0\19_ConversorMetrosCentimetros\19_ConversorMetrosCentimetros\19_ConversorMetrosCentimetros\obj\Debug\19_ConversorMetrosCentimetros.pdb
+C:\Users\Lab AyED\Documents\4_Pancrazi\AyED-2026-4-2-\Etapa1\19_ConversorMetrosCentimetros\19_ConversorMetrosCentimetros\19_ConversorMetrosCentimetros\bin\Debug\19_ConversorMetrosCentimetros.exe.config
+C:\Users\Lab AyED\Documents\4_Pancrazi\AyED-2026-4-2-\Etapa1\19_ConversorMetrosCentimetros\19_ConversorMetrosCentimetros\19_ConversorMetrosCentimetros\obj\Debug\19_ConversorMetrosCentimetros.exe
+C:\Users\Lab AyED\Documents\4_Pancrazi\AyED-2026-4-2-\Etapa1\19_ConversorMetrosCentimetros\19_ConversorMetrosCentimetros\19_ConversorMetrosCentimetros\obj\Debug\19_ConversorMetrosCentimetros.pdb
