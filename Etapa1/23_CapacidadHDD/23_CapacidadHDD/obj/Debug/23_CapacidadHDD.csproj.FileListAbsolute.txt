@@ -4,3 +4,7 @@ C:\Users\Lab AyED\Documents\4_Pancrazi\Etapa0\23_CapacidadHDD\23_CapacidadHDD\bi
 C:\Users\Lab AyED\Documents\4_Pancrazi\Etapa0\23_CapacidadHDD\23_CapacidadHDD\bin\Debug\23_CapacidadHDD.pdb
 C:\Users\Lab AyED\Documents\4_Pancrazi\Etapa0\23_CapacidadHDD\23_CapacidadHDD\obj\Debug\23_CapacidadHDD.exe
 C:\Users\Lab AyED\Documents\4_Pancrazi\Etapa0\23_CapacidadHDD\23_CapacidadHDD\obj\Debug\23_CapacidadHDD.pdb
+C:\Users\Lab AyED\Documents\4_Pancrazi\AyED-2026-4-2-\Etapa1\23_CapacidadHDD\23_CapacidadHDD\bin\Debug\23_CapacidadHDD.exe.config
+C:\Users\Lab AyED\Documents\4_Pancrazi\AyED-2026-4-2-\Etapa1\23_CapacidadHDD\23_CapacidadHDD\obj\Debug\23_CapacidadHDD.exe
+C:\Users\Lab AyED\Documents\4_Pancrazi\AyED-2026-4-2-\Etapa1\23_CapacidadHDD\23_CapacidadHDD\obj\Debug\23_CapacidadHDD.pdb
+C:\Users\Lab AyED\Documents\4_Pancrazi\AyED-2026-4-2-\Etapa1\23_CapacidadHDD\23_CapacidadHDD\obj\Debug\23_CapacidadHDD.csprojResolveAssemblyReference.cache
