@@ -10,6 +10,7 @@ namespace _19_BlackJack
     {
         static void Main(string[] args)
         {
+            
             int rondas_ganadas = 0;
             int rondas_perdidas = 0;
             int rondas_empatas = 0;
@@ -115,7 +116,15 @@ namespace _19_BlackJack
                     plantarse = false;
                     ronda_terminada = false;
                 }
+
+
+
+
             }
+
+
+
+
         }
      }
 }
